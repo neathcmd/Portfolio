@@ -1,0 +1,21 @@
+/* Optional: If you want to customize styles further */
+body {
+  background-color: #101010;
+}
+
+header {
+  padding: 20px 5%;
+}
+
+.logo {
+  font-size: 1.6rem;
+}
+
+.home {
+  padding-top: 100px; /* Adjust this depending on header height */
+}
+
+.home h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
